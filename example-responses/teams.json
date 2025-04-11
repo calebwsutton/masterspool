@@ -1,0 +1,494 @@
+{
+    "teams": [
+        {
+            "team_id": 1,
+            "team_score": 999,
+            "manager": "Adam Froidl",
+            "players": [
+                {
+                    "first_name": "Scottie",
+                    "last_name": "Scheffler",
+                    "id": "6db3e736-d86d-4181-aa3b-651b8c1bfdc1",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Cameron",
+                    "last_name": "Smith",
+                    "id": "aee6ead9-10e0-445b-aa13-d037cc1dd861",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Corey",
+                    "last_name": "Conners",
+                    "id": "dfc22025-5644-4b06-9eac-52db7df7b259",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "J.J.",
+                    "last_name": "Spaun",
+                    "id": "7fdc75ca-2c33-49b8-8738-a8ea06fb51ed",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Maverick",
+                    "last_name": "McNealy",
+                    "id": "37221a6c-c8c4-4eaa-beba-715f6e781962",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Harris",
+                    "last_name": "English",
+                    "id": "7e11058b-ce7b-4efa-8963-2e48c683ff5b",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 2,
+            "team_score": 999,
+            "manager": "Kyle Sutton",
+            "players": [
+                {
+                    "first_name": "Rory",
+                    "last_name": "McIlroy",
+                    "id": "da226913-b804-48de-adbf-96e956eb75ac",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Min Woo",
+                    "last_name": "Lee",
+                    "id": "b7519c68-a6b3-4d99-b772-5bc951357592",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Keegan",
+                    "last_name": "Bradley",
+                    "id": "0b5d3fd6-e3ec-4efd-8743-60db44c87425",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Matt",
+                    "last_name": "Fitzpatrick",
+                    "id": "04b52e10-1f50-4efb-9895-86b4107f78c4",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Nick",
+                    "last_name": "Dunlap",
+                    "id": "5f5295f6-93c0-48ae-ac53-7f398289ccf0",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Nick",
+                    "last_name": "Taylor",
+                    "id": "8454b651-9427-488d-a405-8e0219741c6e",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 3,
+            "team_score": 999,
+            "manager": "Brady Hemmel",
+            "players": [
+                {
+                    "first_name": "Collin",
+                    "last_name": "Morikawa",
+                    "id": "f0ff1391-fc29-41bf-b46a-cd5ef9f63ad9",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Joaquin",
+                    "last_name": "Niemann",
+                    "id": "4249bf6e-9723-4a4a-9ddd-515022618de9",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Jordan",
+                    "last_name": "Spieth",
+                    "id": "3e4963cb-6e80-4393-85cf-2aecec453c4a",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Patrick",
+                    "last_name": "Reed",
+                    "id": "12195ed9-3fcd-486a-86b4-1ec726d201cd",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Billy",
+                    "last_name": "Horschel",
+                    "id": "f04f89c3-3f8f-4009-bc49-0de2a634ead3",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Denny",
+                    "last_name": "McCarthy",
+                    "id": "6787bd96-6bf0-4297-b819-85025f81a3a9",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 4,
+            "team_score": 999,
+            "manager": "Brady Curtis",
+            "players": [
+                {
+                    "first_name": "Hideki",
+                    "last_name": "Matsuyama",
+                    "id": "d45bcf4a-5803-4b0b-ab6c-6427a76cecf7",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Brooks",
+                    "last_name": "Koepka",
+                    "id": "f555d8b6-f0af-4cce-aa5b-de981d89bc69",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Sergio",
+                    "last_name": "Garcia",
+                    "id": "a334e19f-ebb9-4497-b2ad-71b9c1c6e1f8",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Tom",
+                    "last_name": "Kim",
+                    "id": "aca3420a-9ed0-444d-b214-f831561f7c71",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Max",
+                    "last_name": "Homa",
+                    "id": "8e3fb27f-d585-4b9e-9c0e-284a654969f5",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Zach",
+                    "last_name": "Johnson",
+                    "id": "ace28c92-bea0-4aaa-b3c4-c992971eb59d",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 5,
+            "team_score": 999,
+            "manager": "Nathan Waters",
+            "players": [
+                {
+                    "first_name": "Justin",
+                    "last_name": "Thomas",
+                    "id": "2094fa02-6411-48df-a717-aa1a7228d645",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Jon",
+                    "last_name": "Rahm",
+                    "id": "7b52b9be-a490-4569-9bbc-57db5f232dcb",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Will",
+                    "last_name": "Zalatoris",
+                    "id": "7b7291d6-5fb6-4640-a1b4-17fa712f35fb",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Phil",
+                    "last_name": "Mickelson",
+                    "id": "3f423647-083c-4da9-8ee6-344df4af116f",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Brian",
+                    "last_name": "Harman",
+                    "id": "92544280-0438-4f43-a5f3-f3a21ea55157",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Cameron",
+                    "last_name": "Davis",
+                    "id": "f2bc6b83-fab1-4567-8bcf-9287d1940f2d",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 6,
+            "team_score": 999,
+            "manager": "Ryan Walsh",
+            "players": [
+                {
+                    "first_name": "Viktor",
+                    "last_name": "Hovland",
+                    "id": "965d925a-5ecd-409c-beb7-a34ef1ca52f3",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Shane",
+                    "last_name": "Lowry",
+                    "id": "f59ddf3e-5f14-42b3-9cf1-b681cd0d35a0",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Robert",
+                    "last_name": "Macintyre",
+                    "id": "99f32016-2a65-4652-8662-e810556ca542",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Daniel",
+                    "last_name": "Berger",
+                    "id": "509991b7-9e9d-48be-9a3b-b75fd23be6ff",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Aaron",
+                    "last_name": "Rai",
+                    "id": "31f03fb8-f92c-4853-8805-c668430cecc2",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Stephan",
+                    "last_name": "Jaeger",
+                    "id": "5488bb49-3607-4517-a3a1-5cf68737aa37",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 7,
+            "team_score": 999,
+            "manager": "Caleb Sutton",
+            "players": [
+                {
+                    "first_name": "Bryson",
+                    "last_name": "DeChambeau",
+                    "id": "0096b26b-fc25-4fcf-90b9-4b796e3f6c5a",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Tyrrell",
+                    "last_name": "Hatton",
+                    "id": "ce5a1cd5-bf8c-4f0d-9903-844ec3aa7e10",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Dustin",
+                    "last_name": "Johnson",
+                    "id": "a7041051-eb25-40b9-acb3-dab88cae69c0",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Justin",
+                    "last_name": "Rose",
+                    "id": "c11235f6-0f62-4afb-93e7-952dc0554649",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Adam",
+                    "last_name": "Scott",
+                    "id": "45be1496-ea36-4c0c-8573-4a457ab70573",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Thomas",
+                    "last_name": "Detry",
+                    "id": "4d70e4fe-4a2a-44f4-9fd0-a7b76b3828ca",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 8,
+            "team_score": 999,
+            "manager": "DJ Hardy",
+            "players": [
+                {
+                    "first_name": "Ludvig",
+                    "last_name": "Aberg",
+                    "id": "4fff3b28-5c2e-4ec3-91d1-696f42638cf4",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Patrick",
+                    "last_name": "Cantlay",
+                    "id": "d072ae36-88f2-4276-b97e-6de87aa2b875",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Tony",
+                    "last_name": "Finau",
+                    "id": "f33d746b-8e14-4325-a4e1-81d6f983b163",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Sungjae",
+                    "last_name": "Im",
+                    "id": "ac1db384-8cb4-4223-bc46-60f4ed963645",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Cameron",
+                    "last_name": "Young",
+                    "id": "9fbf091c-5e4b-42a4-93d7-92a6785a618d",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Tom",
+                    "last_name": "Hoge",
+                    "id": "dae7d61f-bde2-4182-9e99-06b48689f004",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 9,
+            "team_score": 999,
+            "manager": "Evan Thurman",
+            "players": [
+                {
+                    "first_name": "Xander",
+                    "last_name": "Schauffele",
+                    "id": "26dc0bda-b9a8-4303-9c1c-ddecda3817d2",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Tommy",
+                    "last_name": "Fleetwood",
+                    "id": "6577ec3d-9e78-4979-8f4c-01c465fa6b1d",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Wyndham",
+                    "last_name": "Clark",
+                    "id": "0f2eb1c3-7278-4b5e-af2e-fd67644834b5",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Jason",
+                    "last_name": "Day",
+                    "id": "97cd8ce8-beb2-484e-9081-ccba9baa0607",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Taylor",
+                    "last_name": "Pendrith",
+                    "id": "c4c3d105-7c57-4caa-b941-f86cd8b3d97c",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Byeong Hun",
+                    "last_name": "An",
+                    "id": "5a9ea77c-7323-4f26-86b5-f6adc3b7e00a",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        },
+        {
+            "team_id": 10,
+            "team_score": 999,
+            "manager": "Luke Nash",
+            "players": [
+                {
+                    "first_name": "Russell",
+                    "last_name": "Henley",
+                    "id": "d8a9ce2c-9bdf-4e54-b53e-58692a1f4d59",
+                    "position": 999,
+                    "draft_round": 1
+                },
+                {
+                    "first_name": "Sepp",
+                    "last_name": "Straka",
+                    "id": "502087cf-2c40-4e1d-9649-4f4e6d7d7778",
+                    "position": 999,
+                    "draft_round": 2
+                },
+                {
+                    "first_name": "Akshay",
+                    "last_name": "Bhatia",
+                    "id": "dfbe6c98-2862-4266-a5e4-494003349a31",
+                    "position": 999,
+                    "draft_round": 3
+                },
+                {
+                    "first_name": "Sam",
+                    "last_name": "Burns",
+                    "id": "f572509d-7c6d-48b9-9c65-a20f6d2d492b",
+                    "position": 999,
+                    "draft_round": 4
+                },
+                {
+                    "first_name": "Lucas",
+                    "last_name": "Glover",
+                    "id": "88c2edb1-7551-4920-91ad-71c971e51e8c",
+                    "position": 999,
+                    "draft_round": 5
+                },
+                {
+                    "first_name": "Davis",
+                    "last_name": "Thompson",
+                    "id": "0f5da2c3-5994-456b-b676-9c9c6f8550b2",
+                    "position": 999,
+                    "draft_round": 6
+                }
+            ]
+        }
+    ]
+}
