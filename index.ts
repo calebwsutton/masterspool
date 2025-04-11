@@ -1,9 +1,7 @@
 import express from 'express';
-import fetch, { RequestInit } from 'node-fetch';
 import * as teamsJson from './example-responses/teams.json';
-// import * as leaderboardJson from './example-responses/leaderboardExample.json'
-
-const api_key = 'vD3urcvxnjo9o8tBayfwbLE0mS7tRswQPDaHaK0O';
+import * as fs from 'fs';
+import { ILeaderboardJson } from './update-leaderboard.ts';
 
 const app = express();
 
@@ -15,22 +13,11 @@ app.listen(3000, () => {
     console.log('The application is listening on port 3000!');
 })
 
-interface IPlayer {
-    id: string;
-    position: number
-}
-interface ILeaderboardJson {
-    leaderboard: IPlayer[]
-}
-
 async function getScoreboard() {
     let response: string = ""
 
-    const test = await fetch(`https://api.sportradar.com/golf/trial/pga/v3/en/2025/tournaments/2cba1945-dc1c-4131-92f4-cfdac8c45060/leaderboard.json?api_key=${api_key}`);
-    const data = await test.json()
-
-    let leaderboardJson: ILeaderboardJson = data as ILeaderboardJson
-    // console.log(data)
+    let leaderboardFile = fs.readFileSync('leaderboard.json', 'utf8')
+    let leaderboardJson = JSON.parse(leaderboardFile) as ILeaderboardJson
 
     teamsJson.teams.forEach(team => {
         team.players.forEach(player => {
