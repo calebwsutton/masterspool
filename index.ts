@@ -4,13 +4,14 @@ import * as fs from 'fs';
 import { ILeaderboardJson } from './update-leaderboard.ts';
 
 const app = express();
+const port = 8080;
 
 app.get('/', async(req, res) => {
     res.send(`<p>${await getScoreboard()}</p>`);
 })
 
-app.listen(3000, () => {
-    console.log('The application is listening on port 3000!');
+app.listen(port, () => {
+    console.log(`The application is listening on port ${port}!`);
 })
 
 async function getScoreboard() {
@@ -34,7 +35,7 @@ async function getScoreboard() {
         response += `${team.manager}: ${team.team_score}<br>`
         response += `----------------------------------<br>`
         team.players.forEach(player => {
-            response += `${player.first_name} ${player.last_name}: ${player.position}<br>`
+            player.position >= 54 ? response += `${player.first_name} ${player.last_name}: CUT<br>` : response += `${player.first_name} ${player.last_name}: ${player.position}<br>`
         });
         response += `<br>`
     });
