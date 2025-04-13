@@ -4,7 +4,7 @@ import * as fs from 'fs';
 import { ILeaderboardJson } from './update-leaderboard.ts';
 
 const app = express();
-const port = 8080;
+const port = 80;
 
 app.get('/', async(req, res) => {
     res.send(`<p>${await getScoreboard()}</p>`);

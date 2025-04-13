@@ -9,7 +9,7 @@ export interface ILeaderboardJson {
     leaderboard: IPlayer[]
 }
 
-const api_key = 'vD3urcvxnjo9o8tBayfwbLE0mS7tRswQPDaHaK0O';
+const api_key = '8u3Kbn0ce8lLfXurVGKBFT3FdbsVVq97tFdDQDLr';
 
 async function updateLeaderBoard() {
     const test = await fetch(`https://api.sportradar.com/golf/trial/pga/v3/en/2025/tournaments/2cba1945-dc1c-4131-92f4-cfdac8c45060/leaderboard.json?api_key=${api_key}`);
@@ -27,4 +27,4 @@ async function updateLeaderBoard() {
     });
 }
 
-setInterval(updateLeaderBoard, 60000);
+setInterval(updateLeaderBoard, 150000);
